@@ -15,7 +15,7 @@
 - Always comply with the legal framework in your jurisdiction.
 - The creators of this project are not responsible for any misuse or illegal actions.
 
-I do not take any responsibility for this tool's usage in for malicious purposes. It is free and provided AS-IS for everyone.
+I do not take any responsibility for this tool's usage in any malicious purposes. It is free and provided AS-IS for everyone.
 
 
 ---
